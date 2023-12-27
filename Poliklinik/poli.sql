@@ -93,8 +93,8 @@ CREATE TABLE `obat` (
 --
 
 INSERT INTO `obat` (`id`, `nama_obat`, `kemasan`, `harga`) VALUES
-(1, 'Yusimox', 'Botol', 9000),
-(2, 'paramex', 'kapsul', 10000);
+(1, 'Elizac', 'kapsul', 38800),
+(2, 'olanzapine', 'strip', 38362);
 
 -- --------------------------------------------------------
 
